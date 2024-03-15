@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-<h1 align="center">Hi 👋, I'm Rithwik Reddy Sandi</h1>
+<h1 align="center">Hi 👋, Iam Rithwik Reddy Sandi</h1>
 
 <h3 align="center"><u>ECE </u></h3>
 
@@ -9,11 +9,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rithwikreddysandi&label=Profile%20views&color=0e75b6&style=flat" alt="satya-prakash-k" /> </p>
 
 
-- 🔭 I’m currently studying ** Btech ECE, At KL University**
-- 🌱 I’m interested in  ** Learning, Getting Experience **
-- 📝 I am good at ** Projects, PCB Designing, Web Developing, and Coding Skills**
-- 💬 Ask me about **PCB design, Web Developing, Git etc.,**
-- 📫 How to reach me **rithwikreddysandi@gmail.com**
+- 🔭 I’m currently studying  Btech ECE, At KL University
+- 🌱 I’m interested in  Learning, Learning, Learning, Getting Experience  
+- 📝 I am good at  Projects, PCB Designing, Web Developing, and Coding Skills
+- 💬 Ask me about PCB design, Web Developing, Git etc.,
+- 📫 How to reach me rithwikreddysandi@gmail.com
 
  
 <h3>Connect with Me!</h3>
